@@ -13,22 +13,22 @@ It runs in production and is used daily. I designed, built and deploy it end to 
 All data shown is fictitious.
 
 **Dashboard**: upcoming confirmed events and events pending confirmation
-![Dashboard](docs/screenshots/01-dashboard.jpg)
+![Dashboard](assets/screenshots/01-dashboard.jpg)
 
 **Calendar**
-![Calendar](docs/screenshots/02-calendario.jpg)
+![Calendar](assets/screenshots/02-calendario.jpg)
 
 **Events grid**: generic metadata-driven list, with totals and outstanding balances
-![Events grid](docs/screenshots/03-eventos.jpg)
+![Events grid](assets/screenshots/03-eventos.jpg)
 
 **Event form**: services, provider assignment and amounts, with tabs for payments received, payouts and costs
-![Event form](docs/screenshots/04-evento.jpg)
+![Event form](assets/screenshots/04-evento.jpg)
 
 **Profit and loss report**: monthly income, costs, payouts and net result, with drill-down
-![Profit and loss report](docs/screenshots/05-resultados.jpg)
+![Profit and loss report](assets/screenshots/05-resultados.jpg)
 
 **Mobile**: dashboard
-<p><img src="docs/screenshots/06-mobile.jpg" alt="Mobile dashboard" width="320"></p>
+<p><img src="assets/screenshots/06-mobile.jpg" alt="Mobile dashboard" width="320"></p>
 
 ---
 
