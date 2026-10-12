@@ -1,0 +1,12 @@
+.gcloudignore
+#!include:.gitignore
+
+# Docs — no necesarios para el build
+Docs/
+*.md
+
+# Scripts operativos (deploy, tests, backups) — no son parte del build
+scripts/
+
+# Historial de git — no se usa en el build
+.git/

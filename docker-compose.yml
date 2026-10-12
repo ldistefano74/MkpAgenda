@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    container_name: mkpagenda
+    ports:
+      - "8000:8080"
+    env_file:
+      - .env.docker
+    restart: unless-stopped

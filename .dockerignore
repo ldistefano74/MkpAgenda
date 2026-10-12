@@ -1,0 +1,14 @@
+venv/
+.env
+.env.*
+!frontend/.env.production
+__pycache__/
+*.pyc
+*.pyo
+frontend/node_modules/
+frontend/build/
+.git/
+.gitignore
+Docs/
+*.md
+db.sqlite3
